@@ -1,16 +1,20 @@
 ### Hi there 👋
 
 <!--
-**Marciobob/Marciobob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marciobob/Marciobob** 
 
-Here are some ideas to get you started:
+#sou desenvolvedor fullstak,e arrumar problemas é o meu forte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#sou freelancer 
+
+#posso te ajudar com as seguintes tecnologias,python, reactnative,CSS, HTML, javascript
+
+#meu forte e desenvolvimento de apps, autorização de tarefas,bots de conversação
+
+#entre em contato com migo em:
+
+LinkedIn: https://www.linkedin.com/in/marcio-bob-7221631b7
+
+E-mail: marciobob47@gmail.com
+
 -->
