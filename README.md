@@ -6,7 +6,7 @@ minha  pagina: www.pensadorweb.page
 
 LinkedIn: https://www.linkedin.com/in/marcio-bob-7221631b7
 
-E-mail: marciobob47@gmail.com
+E-mail: pensadorweb2022@gmail.com
 
 fone: 11943939083
 
