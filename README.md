@@ -8,6 +8,6 @@ LinkedIn: https://www.linkedin.com/in/marcio-bob-7221631b7
 
 E-mail: pensadorweb2022@gmail.com
 
-fone: 11943939083
+fone: 11918758408
 
 
