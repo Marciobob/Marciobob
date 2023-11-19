@@ -2,7 +2,7 @@ Olá! sou o marcio,  sou um profissional de tecnologia com 3 anos de experiênci
 
 #entre em contato com migo em:
 
-minha  pagina: pensadorweb.page
+minha  pagina: https://pensadorweb.page
 
 LinkedIn: https://www.linkedin.com/in/marcio-bob-7221631b7
 
